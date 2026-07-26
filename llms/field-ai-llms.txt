@@ -1,0 +1,23 @@
+# Field AI
+
+> FieldAI builds general-purpose robot intelligence through its Field Foundation Models (FFMs) and EDGE brain — physics-first, risk-aware foundation models for embodied AI. FieldAI's embodiment-agnostic autonomy lets robots navigate dynamic, unstructured environments without maps, GPS, or predefined trajectories. Founded in 2023 (formerly AI for Humanity) and based in Mission Viejo, California, the company serves construction, energy, mining, logistics, manufacturing, power and utility, agriculture, and federal applications.
+
+Field AI does not currently publish a public developer API, SDK, or documentation surface. This profile is a company record in the API Evangelist network. No OpenAPI, well-known discovery, or llms.txt was found on the provider's site as of this generation.
+
+## Company
+
+- [Website](https://www.fieldai.com/): FieldAI home
+- [Technology](https://www.fieldai.com/technology): Field Foundation Models and EDGE brain
+- [Solutions](https://www.fieldai.com/solutions): Industry deployments (construction, mining, energy, manufacturing, federal)
+- [Team](https://www.fieldai.com/team): Leadership and roboticists
+- [Latest News](https://www.fieldai.com/news): Company news and announcements
+- [Contact](https://www.fieldai.com/contact): Get in touch
+
+## Legal
+
+- [Terms of Use](https://www.fieldai.com/terms-of-use)
+- [Privacy Policy](https://www.fieldai.com/privacy-policy)
+
+## Social
+
+- [LinkedIn](https://www.linkedin.com/company/fieldai)

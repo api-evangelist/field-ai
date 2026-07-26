@@ -1,7 +1,30 @@
 aid: field-ai
-name: Field Ai
-description: Field Ai is a company surfaced as a portfolio company of canaan-partners and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Field AI
+description: >-
+  FieldAI builds general-purpose robot intelligence through its Field Foundation
+  Models (FFMs) and EDGE brain — a new class of physics-first, risk-aware
+  foundation models for embodied AI. FieldAI's embodiment-agnostic autonomy lets
+  robots navigate dynamic, unstructured environments without maps, GPS, or
+  predefined trajectories, and has been proven across quadrupeds, humanoids,
+  wheeled robots, and passenger-scale vehicles. Founded in 2023 (formerly AI for
+  Humanity) and based in Mission Viejo, California, the company is led by
+  veterans from DeepMind, Google Brain, Tesla Autopilot, NASA JPL, and SpaceX,
+  and serves construction, energy, mining, logistics, manufacturing, power and
+  utility, agriculture, and federal applications. FieldAI has raised over $405M
+  from investors including Bezos Expeditions, Canaan Partners, Khosla Ventures,
+  Temasek, Intel Capital, Hyundai Motor Company, and Prysm Capital.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/66f60ba0b55a2bf61129d179/693cb87d40912a056f3f3895_FAI_logo-horizontal-color_REVERSE.svg
 url: https://raw.githubusercontent.com/api-evangelist/field-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +34,41 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Robotics
+- Artificial Intelligence
+- Embodied AI
+- Foundation Models
+- Autonomy
+- Automation
+- Machine Learning
 apis: []
+common:
+- type: DomainSecurity
+  url: security/field-ai-domain-security.yml
+- type: LLMsTxt
+  url: llms/field-ai-llms.txt
+- type: Website
+  url: https://www.fieldai.com/
+- type: Blog
+  url: https://www.fieldai.com/news
+- type: Support
+  url: https://www.fieldai.com/contact
+- type: TermsOfService
+  url: https://www.fieldai.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.fieldai.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/fieldai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
