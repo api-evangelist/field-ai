@@ -13,6 +13,17 @@ description: >-
   utility, agriculture, and federal applications. FieldAI has raised over $405M
   from investors including Bezos Expeditions, Canaan Partners, Khosla Ventures,
   Temasek, Intel Capital, Hyundai Motor Company, and Prysm Capital.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
