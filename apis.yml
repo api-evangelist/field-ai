@@ -54,7 +54,7 @@ tags:
 - Foundation Models
 - Autonomy
 - Automation
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Robotics
@@ -64,6 +64,7 @@ tags_raw:
 - Autonomy
 - Automation
 - Machine Learning
+- Machine-Learning
 apis: []
 common:
 - type: DomainSecurity
